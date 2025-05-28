@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # Recovery usado
+#!/bin/bash
+
+# Recovery usado
 export NAME="shrp"
 export MANIFEST="https://github.com/SHRP/manifest.git"
 export BRANCH="android-9.0"
@@ -15,3 +18,6 @@ export TYPE="omni"
 
 # Padrão
 export SYM="_"
+
+
+# Informações do dispositivo
